@@ -1,0 +1,7 @@
+{
+  "name": "foo",
+  "type": "module",
+  "dependencies": {
+    "vitest": "^1.3.1"
+  }
+}
